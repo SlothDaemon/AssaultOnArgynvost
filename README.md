@@ -30,7 +30,7 @@ Ludmilla has a Caster archetype.
 A player playing one of these characters may make a character with the following race:
 * A [human](https://dnd5e.wikidot.com/human) **without subrace**, 
 * With the following additional features:
-> - **Undead**. A vampire counts as an undead, rather than a humanoid. As such, they do not need to eat or breathe. 
+> - **Undead**. A vampire counts as an undead, rather than a humanoid. As such, they do not need to eat or breathe and are immune to poison (damage and condition) and disease. 
 > - **Unique Diet**. A vampire permanently harbours a dark craving for the sanguine. A vampire gains one level of exhaustion for every three nights the vampire does not partake of a living, or recently died (<1 minute) humanoid's blood while it is still fresh. Exhaustion gained through this feature is only cured through the partaking of blood. Drinking fresh blood cures all levels of exhaustion.
 > - **Vampiric Regeneration**. The vampire regains 5 hit points at the start of its turn if it has at least 1 hit point, isn't in sunlight or running water, and has no levels of exhaustion. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 > - **Darkvision**. A vampire has darkvision out to a range of 60 feet.
