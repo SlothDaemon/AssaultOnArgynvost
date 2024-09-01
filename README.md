@@ -54,7 +54,7 @@ A player playing  this character may make a character with the following race:
 * [Variant human](https://dnd5e.wikidot.com/human)
 * With the following additional features:
 > - **Darkvision**. Madam Eva permanently has the spell effect of Darkvision on her, granting her darkvision out to a range of 60 feet. Additionally, she gains the spell on her spell list as innate spell casting at will with the target of self.
-> - **Tarokka Portent.** At dawn, Madam Eva may draw three Tarokka cards and predict the coming day. As a reaction, she may add the effects of one of the drawn cards whenever Madam Eva or an ally within 30 feet hits with a melee spell or weapon attack, after which the card is expended.
+> - **Tarokka Portent.** At dawn, Madam Eva may draw three Tarokka cards and predict the coming day. As a reaction, she may add the effects of one of the drawn cards to an attack whenever Madam Eva or an ally within 30 feet hits with a melee spell or weapon attack, after which the card is expended.
 
 And the following action:
 > - **Curse** (Recharges after a Long Rest). Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.
