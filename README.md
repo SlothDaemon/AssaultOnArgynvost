@@ -1,3 +1,8 @@
+## Level
+I want this to be an explosive, high level one-shot. Make a level 12 character.
+
+Each character also starts with one common or uncommon magic item. Feel free to choose one in the following list: https://dnd5e.wikidot.com/wondrous-items
+
 ## Vampire race (Ludmilla, Volenta, Anastrasya, Escher)
 Volenta, Anastrasya, and Escher have a Martial archetype.
 * Canonically, Volenta is a Barbarian.
