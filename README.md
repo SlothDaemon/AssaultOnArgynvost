@@ -30,6 +30,7 @@ Ludmilla has a Caster archetype.
 A player playing one of these characters may make a character with the following race:
 * A [human](https://dnd5e.wikidot.com/human) **without subrace**, 
 * With the following additional features:
+> - **Darkvision**. A vampire has darkvision out to a range of 60 feet.
 > - **Shapechanger**. If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form. While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies. While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
 > - **Spider Climb.** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 > - **Vampire Weaknesses.** The vampire has the following flaws: 
@@ -49,7 +50,8 @@ Madam Eva has a Caster archetype.
 A player playing  this character may make a character with the following race:
 * [Variant human](https://dnd5e.wikidot.com/human)
 * With the following additional features:
-> **Tarokka Portent.** At dawn, Madam Eva may draw three Tarokka cards and predict the coming day. She may activate the effects of one of the drawn cards as a reaction, after which the card is expended.
+> - **Darkvision**. Madam Eva permanently has the spell effect of Darkvision on her, granting her darkvision out to a range of 60 feet.
+> - **Tarokka Portent.** At dawn, Madam Eva may draw three Tarokka cards and predict the coming day. She may activate the effects of one of the drawn cards as a reaction, after which the card is expended.
 
 And the following action:
 > - **Curse** (Recharges after a Long Rest). Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.
@@ -62,7 +64,8 @@ Baba Lysaga has a Caster archetype.
 * A player playing  this character may make a character with the following race:
 * [Standard human](https://dnd5e.wikidot.com/human)
 * With the following features:
-> **Hag Items.**  Baba carries rare magic items exclusive to hags that she has crafted for herself. If either object is lost, the Baba will go to great lengths to retrieve it, as creating a replacement takes time and effort.
+> - **Darkvision**. A hag has darkvision out to a range of 60 feet.
+> - **Hag Items.**  Baba carries rare magic items exclusive to hags that she has crafted for herself. If either object is lost, the Baba will go to great lengths to retrieve it, as creating a replacement takes time and effort.
 > 	- _**Heartstone.**_ This lustrous black gem allows a hag to become ethereal as an action while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
 > 	- _**Soul Bag.**_ When a creature that you can see dies within 30ft, you may expend your reaction to capture their soul in this black sack made of stitched flesh. A soul bag can hold only one soul at a time, and only the  hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
 > 	- _**Hag Eye.**_ This is a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is often entrusted to a minion for safekeeping and transport. A hag can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
