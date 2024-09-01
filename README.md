@@ -8,6 +8,9 @@ This one-shot features NPCs from the bad guys of Curse of Strahd. Each of these 
 * Djon as Madam Eva
 * Bob as Volenta
 
+# Making a character
+When making a character for this one-shot, use the race as described below and adhere to the archetype (Martial/Caster) as associated with the character. The rest of the choices are up to you.
+
 ## Level
 I want this to be an explosive, high level one-shot. Make a level 12 character.
 
