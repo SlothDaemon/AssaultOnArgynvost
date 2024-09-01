@@ -1,5 +1,5 @@
 ## Assault on Argynvost
-Strahd has commanded the vampires to vanquish the goody-two-shoes Argynvost. Madam Eva sighs, and has foreseen that his death is necessary for the correct timeline. Baba Lysaga forcefully injects herself into the party.
+Strahd has commanded the vampires to vanquish the goody-two-shoes Argynvost. Madam Eva sighs, as she has foreseen that his death is necessary for the correct timeline. Baba Lysaga forcefully injects herself into the party.
 
 ## Character claims
 This one-shot features NPCs from the bad guys of Curse of Strahd. Each of these characters can only be claimed once. The claims as of time of writing are as follows:
