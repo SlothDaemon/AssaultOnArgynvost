@@ -1,3 +1,13 @@
+## Assault on Argynvost
+Strahd has commanded the vampires to vanquish the goody-two-shoes Argynvost. Madam Eva sighs, and has foreseen that his death is necessary for the correct timeline. Baba Lysaga forcefully injects herself into the party.
+
+## Character claims
+This one-shot features NPCs from the bad guys of Curse of Strahd. Each of these characters can only be claimed once. The claims as of time of writing are as follows:
+* Nic as Baba Lysaga
+* Emi as Ludmilla
+* Djon as Madam Eva
+* Bob as Volenta
+
 ## Level
 I want this to be an explosive, high level one-shot. Make a level 12 character.
 
@@ -52,7 +62,3 @@ Baba Lysaga has a Caster archetype.
 > 	- _**Heartstone.**_ This lustrous black gem allows a hag to become ethereal as an action while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
 > 	- _**Soul Bag.**_ When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
 > 	- _**Hag Eye.**_ Baba This is a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is often entrusted to a minion for safekeeping and transport. A hag can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
-
-
-
-とともと
