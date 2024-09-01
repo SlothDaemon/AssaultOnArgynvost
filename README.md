@@ -22,6 +22,7 @@ Volenta, Anastrasya, and Escher have a Martial archetype.
 * Anastrasya is a Rogue.
 * Escher is a Battlemaster Fighter.
 * You may choose to make them any Martial, however.
+
 Ludmilla has a Caster archetype.
 * Ludmilla is a wizard.
 * You may choose to make her any Caster, however.
